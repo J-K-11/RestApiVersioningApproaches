@@ -1,0 +1,11 @@
+Application is spring boot maven application.
+
+Dependencies used:
+
+spring-boot-starter-data-jpa
+spring-boot-starter-web
+spring-boot-devtools
+h2
+spring-boot-starter-test
+
+Application is developed using Java 7.
